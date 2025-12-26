@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(43, 255, 0);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+p{
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+nav{
+    background-color: rgb(55, 0, 255);
+    margin: 10;
+    padding: 20px;
+    float: left;
+}
+    
+
+nav a:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    font-size: 100px;
+    color: rgb(0, 17, 255);
+    text-align: center;
+}
+a{
+    color: rgb(255, 251, 251);
+    font-size: 15px;
+}
+img{
+    image-orientation: flip;
+}
+
+body{
+    background-image:url(Images/images.jpg);
+    background-size: cover;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
